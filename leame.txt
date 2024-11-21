@@ -1,0 +1,4 @@
+java -jar cifrado.jar CSB-DFSSA-2401 keystore/ .txt
+
+// para ver el encoding
+file -I CSB-DFSSA-2401.cif 
